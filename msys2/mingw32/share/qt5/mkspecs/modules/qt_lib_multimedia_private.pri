@@ -1,0 +1,14 @@
+QT.multimedia_private.VERSION = 5.14.1
+QT.multimedia_private.name = QtMultimedia
+QT.multimedia_private.module =
+QT.multimedia_private.libs = $$QT_MODULE_LIB_BASE
+QT.multimedia_private.includes = $$QT_MODULE_INCLUDE_BASE/QtMultimedia/5.14.1 $$QT_MODULE_INCLUDE_BASE/QtMultimedia/5.14.1/QtMultimedia
+QT.multimedia_private.frameworks =
+QT.multimedia_private.depends = core_private gui_private multimedia
+QT.multimedia_private.uses =
+QT.multimedia_private.module_config = v2 internal_module
+QT.multimedia_private.enabled_features = directshow evr openal wshellitem
+QT.multimedia_private.disabled_features = alsa gpu_vivante gstreamer gstreamer_0_10 gstreamer_1_0 gstreamer_app gstreamer_encodingprofiles gstreamer_gl gstreamer_imxcommon gstreamer_photography linux_v4l pulseaudio resourcepolicy wasapi wmf wmsdk
+QMAKE_INCDIR_OPENAL = C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/include/AL
+QMAKE_LIBS_DIRECTSHOW = -lstrmiids -ldmoguids -luuid -lmsdmo -lole32 -loleaut32
+QMAKE_LIBS_OPENAL = -LC:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib -lopenal

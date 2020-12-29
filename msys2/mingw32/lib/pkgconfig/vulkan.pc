@@ -1,0 +1,12 @@
+prefix=/mingw32
+exec_prefix=/mingw32
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Vulkan-Loader
+Description: Vulkan Loader
+Version: 1.1.127
+Libs: -L${libdir} -lvulkan
+Libs.private: 
+Cflags: -I${includedir}
+

@@ -1,5 +1,5 @@
-# For a description of the file format, see the Users Guide
-# http://cygwin.com/cygwin-ug-net/using.html#mount-table
-
-# DO NOT REMOVE NEXT LINE. It remove cygdrive prefix from path
-none / cygdrive binary,posix=0,noacl,user 0 0
+# For a description of the file format, see the Users Guide  
+# http://cygwin.com/cygwin-ug-net/using.html#mount-table  
+none / cygdrive binary,posix=0,noacl,user 0 0 
+C:\Users\old_w\Documents\GitHub\ProxSpace\pm3 /pm3 ntfs noacl 0 0 
+C:\Users\old_w\Documents\GitHub\ProxSpace\gcc-arm-none-eabi /gcc-arm-none-eabi ntfs noacl 0 0 

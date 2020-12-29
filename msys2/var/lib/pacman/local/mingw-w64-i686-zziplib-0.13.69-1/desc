@@ -1,0 +1,45 @@
+%NAME%
+mingw-w64-i686-zziplib
+
+%VERSION%
+0.13.69-1
+
+%BASE%
+mingw-w64-zziplib
+
+%DESC%
+A lightweight library that offers the ability to easily extract data from files archived in a single zip file (mingw-w64)
+
+%URL%
+https://zziplib.sourceforge.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1525287314
+
+%INSTALLDATE%
+1582346057
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+925696
+
+%REASON%
+1
+
+%LICENSE%
+LGPL, MPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-i686-zlib
+
+%OPTDEPENDS%
+mingw-w64-i686-SDL: SDL_rwops for ZZipLib
+

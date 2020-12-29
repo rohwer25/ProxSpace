@@ -1,0 +1,5 @@
+[=] Session log C:\Users\old_w\Documents\GitHub\ProxSpace\pm3/.proxmark3/log_20200624.txt
+
+syntax: proxmark3.exe [-h|-t|-m]          
+        proxmark3.exe [[-p] <port>] [-b] [-w] [-f] [-c <command>]|[-l <lua_script_file>]|[-s <cmd_script_file>] [-i] [-d <0|1|2>]          
+        proxmark3.exe [-p] <port> --flash [--unlock-bootloader] [--image <imagefile>]+ [-w] [-f] [-d <0|1|2>]          

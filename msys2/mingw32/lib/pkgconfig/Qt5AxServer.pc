@@ -1,0 +1,14 @@
+prefix=/mingw32
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 AxServer
+Description: Qt AxServer module
+Version: 5.14.1
+Libs: -L${libdir} -lQt5AxServer 
+Libs.private: -lshell32 D:/mingwbuild/mingw-w64-qt5/src/i686/qtactiveqt/lib/libQt5AxBase.a -lole32 -loleaut32 -ladvapi32 -luuid -lglu32 -lopengl32 -lgdi32 -luser32 D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Widgets.dll.a D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Gui.dll.a D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Core.dll.a  -lglu32 -lopengl32 -lgdi32 -luser32  
+Cflags: -DQT_AXSERVER_LIB -I${includedir}/QtAxServer -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Widgets Qt5AxBase
+

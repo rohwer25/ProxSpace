@@ -1,0 +1,14 @@
+prefix=/mingw32
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 AxBase
+Description: Qt AxBase module
+Version: 5.14.1
+Libs: -L${libdir} -lQt5AxBase 
+Libs.private: D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Widgets.dll.a D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Gui.dll.a D:/mingwbuild/mingw-w64-qt5/src/i686/qtbase/lib/libQt5Core.dll.a -lole32 -loleaut32 -luser32 -lgdi32 -ladvapi32 -luuid -lglu32 -lopengl32 -lgdi32 -luser32  
+Cflags: -DQT_AXBASE_LIB -I${includedir}/ActiveQt -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Widgets
+

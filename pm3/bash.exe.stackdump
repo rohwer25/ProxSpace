@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00426F93
+eax=00000000 ebx=8004B8C8 ecx=77451CBC edx=00000000 esi=00000001 edi=007FBF84
+ebp=007FBF88 esp=007FBF60 program=C:\Users\old_w\Documents\GitHub\ProxSpace\msys2\usr\bin\bash.exe, pid 2733, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+007FBF88  00426F93 (00000035, 00000000, 00000000, 8004B8C8)
+End of stack trace

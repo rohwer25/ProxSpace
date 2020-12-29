@@ -109,3 +109,995 @@
 [2019-05-24 14:58] [ALPM] installed tzcode (2019.a-1)
 [2019-05-24 14:58] [ALPM] installed util-linux (2.33.1-1)
 [2019-05-24 14:58] [ALPM] transaction completed
+[2020-02-21 21:01] [PACMAN] Running 'pacman -Syuu'
+[2020-02-21 21:01] [PACMAN] synchronizing package lists
+[2020-02-21 21:01] [PACMAN] starting core system upgrade
+[2020-02-21 21:03] [PACMAN] Running 'pacman --noconfirm -S zip'
+[2020-02-21 21:03] [ALPM] transaction started
+[2020-02-21 21:03] [ALPM] installed zip (3.0-3)
+[2020-02-21 21:03] [ALPM] transaction completed
+[2020-02-21 21:03] [PACMAN] Running 'pacman -Su'
+[2020-02-21 21:03] [PACMAN] starting core system upgrade
+[2020-02-21 21:03] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-x86_64-gcc'
+[2020-02-21 21:04] [ALPM] transaction started
+[2020-02-21 21:04] [ALPM] installed mingw-w64-x86_64-libiconv (1.16-1)
+[2020-02-21 21:04] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-7)
+[2020-02-21 21:04] [ALPM] installed mingw-w64-x86_64-binutils (2.33.1-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-headers-git (8.0.0.5647.1fe2e62e-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-crt-git (8.0.0.5647.1fe2e62e-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-isl (0.22-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-gmp (6.2.0-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-mpfr (4.0.2-2)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-mpc (1.1.0-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (8.0.0.5574.33e5a2ac-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-gcc-libs (9.2.0-2)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-windows-default-manifest (6.4-3)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-winpthreads-git (8.0.0.5574.33e5a2ac-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-gcc (9.2.0-2)
+[2020-02-21 21:05] [ALPM] transaction completed
+[2020-02-21 21:05] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-x86_64-readline'
+[2020-02-21 21:05] [ALPM] transaction started
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-termcap (1.3.1-5)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-readline (8.0.004-1)
+[2020-02-21 21:05] [ALPM] transaction completed
+[2020-02-21 21:05] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-x86_64-libsndfile'
+[2020-02-21 21:05] [ALPM] transaction started
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-libogg (1.3.4-3)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-flac (1.3.3-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-libvorbis (1.3.6-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-speexdsp (1.2.0-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-speex (1.2.0-1)
+[2020-02-21 21:05] [ALPM] installed mingw-w64-x86_64-libsndfile (1.0.28-1)
+[2020-02-21 21:05] [ALPM] transaction completed
+[2020-02-21 21:05] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S git'
+[2020-02-21 21:07] [ALPM] transaction started
+[2020-02-21 21:07] [ALPM] installed expat (2.2.9-1)
+[2020-02-21 21:08] [ALPM] installed vim (8.2.0121-1)
+[2020-02-21 21:08] [ALPM] installed heimdal (7.7.0-1)
+[2020-02-21 21:08] [ALPM] installed openssh (8.1p1-1)
+[2020-02-21 21:08] [ALPM] installed db (5.3.28-2)
+[2020-02-21 21:08] [ALPM] installed libgdbm (1.18.1-2)
+[2020-02-21 21:08] [ALPM] installed gdbm (1.18.1-2)
+[2020-02-21 21:08] [ALPM] upgraded bash (4.4.023-1 -> 4.4.023-2)
+[2020-02-21 21:08] [ALPM] installed perl (5.30.1-1)
+[2020-02-21 21:08] [ALPM] installed perl-Error (0.17029-1)
+[2020-02-21 21:08] [ALPM] installed perl-Authen-SASL (2.16-2)
+[2020-02-21 21:08] [ALPM] installed perl-Encode-Locale (1.05-1)
+[2020-02-21 21:08] [ALPM] installed perl-HTTP-Date (6.05-1)
+[2020-02-21 21:08] [ALPM] installed perl-File-Listing (6.04-2)
+[2020-02-21 21:08] [ALPM] installed perl-HTML-Tagset (3.20-2)
+[2020-02-21 21:08] [ALPM] installed perl-HTML-Parser (3.72-4)
+[2020-02-21 21:08] [ALPM] installed perl-LWP-MediaTypes (6.02-2)
+[2020-02-21 21:08] [ALPM] installed perl-URI (1.76-1)
+[2020-02-21 21:08] [ALPM] installed perl-HTTP-Message (6.18-1)
+[2020-02-21 21:08] [ALPM] installed perl-HTTP-Cookies (6.08-1)
+[2020-02-21 21:08] [ALPM] installed perl-HTTP-Daemon (6.01-2)
+[2020-02-21 21:08] [ALPM] installed perl-HTTP-Negotiate (6.01-2)
+[2020-02-21 21:08] [ALPM] installed perl-Net-HTTP (6.19-1)
+[2020-02-21 21:08] [ALPM] installed perl-WWW-RobotRules (6.02-2)
+[2020-02-21 21:08] [ALPM] installed perl-Try-Tiny (0.30-1)
+[2020-02-21 21:08] [ALPM] installed perl-libwww (6.43-1)
+[2020-02-21 21:08] [ALPM] installed perl-TimeDate (2.31-1)
+[2020-02-21 21:08] [ALPM] installed perl-MailTools (2.21-1)
+[2020-02-21 21:08] [ALPM] installed perl-IO-stringy (2.111-1)
+[2020-02-21 21:08] [ALPM] installed perl-Convert-BinHex (1.125-1)
+[2020-02-21 21:08] [ALPM-SCRIPTLET] module test... pass.
+[2020-02-21 21:08] [ALPM] installed perl-MIME-tools (5.509-1)
+[2020-02-21 21:08] [ALPM] installed perl-Net-SSLeay (1.88-1)
+[2020-02-21 21:08] [ALPM] installed perl-IO-Socket-SSL (2.066-1)
+[2020-02-21 21:08] [ALPM] installed perl-Net-SMTP-SSL (1.04-1)
+[2020-02-21 21:08] [ALPM] installed perl-TermReadKey (2.38-1)
+[2020-02-21 21:08] [ALPM] installed git (2.25.1-1)
+[2020-02-21 21:08] [ALPM] transaction completed
+[2020-02-21 21:17] [PACMAN] Running 'pacman -Su'
+[2020-02-21 21:17] [PACMAN] starting core system upgrade
+[2020-02-21 21:17] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-i686-readline'
+[2020-02-21 21:17] [ALPM] transaction started
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-gmp (6.2.0-1)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-mpfr (4.0.2-2)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-mpc (1.1.0-1)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-libwinpthread-git (8.0.0.5574.33e5a2ac-1)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-gcc-libs (9.2.0-2)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-termcap (1.3.1-5)
+[2020-02-21 21:17] [ALPM] installed mingw-w64-i686-readline (8.0.004-1)
+[2020-02-21 21:17] [ALPM] transaction completed
+[2020-02-21 21:17] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-i686-gcc'
+[2020-02-21 21:20] [ALPM] transaction started
+[2020-02-21 21:20] [ALPM] installed mingw-w64-i686-libiconv (1.16-1)
+[2020-02-21 21:20] [ALPM] installed mingw-w64-i686-zlib (1.2.11-7)
+[2020-02-21 21:20] [ALPM] installed mingw-w64-i686-binutils (2.33.1-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-headers-git (8.0.0.5647.1fe2e62e-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-crt-git (8.0.0.5647.1fe2e62e-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-isl (0.22-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-windows-default-manifest (6.4-3)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-winpthreads-git (8.0.0.5574.33e5a2ac-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-gcc (9.2.0-2)
+[2020-02-21 21:21] [ALPM] transaction completed
+[2020-02-21 21:21] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-i686-libsndfile'
+[2020-02-21 21:21] [ALPM] transaction started
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-libogg (1.3.4-3)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-flac (1.3.3-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-libvorbis (1.3.6-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-speexdsp (1.2.0-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-speex (1.2.0-1)
+[2020-02-21 21:21] [ALPM] installed mingw-w64-i686-libsndfile (1.0.28-1)
+[2020-02-21 21:21] [ALPM] transaction completed
+[2020-02-21 21:21] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S make'
+[2020-02-21 21:21] [ALPM] transaction started
+[2020-02-21 21:21] [ALPM] installed make (4.3-1)
+[2020-02-21 21:21] [ALPM] transaction completed
+[2020-02-21 21:22] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S pkg-config'
+[2020-02-21 21:22] [ALPM] transaction started
+[2020-02-21 21:22] [ALPM] installed pkg-config (0.29.2-1)
+[2020-02-21 21:22] [ALPM] transaction completed
+[2020-02-21 21:22] [PACMAN] Running 'pacman --noconfirm --overwrite=* -S mingw-w64-i686-qt5'
+[2020-02-21 21:34] [ALPM] transaction started
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-qtbinpatcher (2.2.0-4)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-z3 (4.8.7-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-bzip2 (1.0.8-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-minizip-git (1.2.445.e67b996-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-zziplib (0.13.69-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-assimp (5.0.1-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-double-conversion (3.1.5-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-expat (2.2.9-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-gettext (0.19.8.1-8)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-wineditline (2.205-3)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-pcre (8.43-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-libffi (3.2.1-4)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-mpdecimal (2.4.2-1)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-libtre-git (r128.6fb7206-2)
+[2020-02-21 21:34] [ALPM] installed mingw-w64-i686-libsystre (1.0.1-4)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-ncurses (6.2-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-libtasn1 (4.15.0-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-p11-kit (0.23.19-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-ca-certificates (20190110-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-openssl (1.1.1.d-2)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-tcl (8.6.10-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-sqlite3 (3.31.0-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-tk (8.6.10-1)
+[2020-02-21 21:35] [ALPM] installed mingw-w64-i686-xz (5.2.4-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-python (3.8.1-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-glib2 (2.62.4-1)
+[2020-02-21 21:36] [ALPM-SCRIPTLET] No schema files found: doing nothing.
+[2020-02-21 21:36] [ALPM-SCRIPTLET] /
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-dbus (1.12.16-3)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-graphite2 (1.3.13-2)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-harfbuzz (2.6.4-3)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libpng (1.6.37-3)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-freetype (2.10.1-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-fontconfig (2.13.1-1)
+[2020-02-21 21:36] [ALPM-SCRIPTLET] 
+[2020-02-21 21:36] [ALPM-SCRIPTLET]   Fontconfig configuration is done via /mingw32/etc/fonts/conf.avail and conf.d.
+[2020-02-21 21:36] [ALPM-SCRIPTLET]   Read /mingw32/etc/fonts/conf.d/README for more information.
+[2020-02-21 21:36] [ALPM-SCRIPTLET] 
+[2020-02-21 21:36] [ALPM-SCRIPTLET] updating font cache... done.
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-freeglut (3.2.1-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libjpeg-turbo (2.0.4-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-jasper (2.0.16-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-zstd (1.4.4-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libtiff (4.1.0-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-lcms2 (2.9-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libmng (2.0.3-4)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libxml2 (2.9.10-3)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libgpg-error (1.37-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libgcrypt (1.8.5-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libxslt (1.1.34-2)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-giflib (5.2.1-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-libwebp (1.1.0-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-openal (1.19.1-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-pcre2 (10.34-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-vulkan-headers (1.1.127-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-vulkan-loader (1.1.127-1)
+[2020-02-21 21:36] [ALPM] installed mingw-w64-i686-xpm-nox (4.2.0-5)
+[2020-02-21 21:37] [ALPM] installed mingw-w64-i686-icu (65.1-1)
+[2020-02-21 21:37] [ALPM] installed mingw-w64-i686-icu-debug-libs (65.1-1)
+[2020-02-21 21:38] [ALPM] installed mingw-w64-i686-qt5 (5.14.1-3)
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QtBinPatcher v2.2.0. Tool for patching paths in Qt binaries.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Yuri V. Krugloff, 2013-2015. http://www.tver-soft.org
+[2020-02-21 21:38] [ALPM-SCRIPTLET] This is free software released into the public domain.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Parsed command line options:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   force 
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   nobackup 
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   old-dir "@@QT_REAL_PREFIX/dir@@"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   verbose 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Working directory: "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Binary file location: "C:\Users\old_w\Documents\GitHub\ProxSpace\msys2\mingw32\bin\qtbinpatcher.exe".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Path to "qmake.exe": "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Skipping backup of file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qt.conf" - file not found.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] qmake command line: ""C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qmake.exe" -query".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] >>>>>>>>>> BEGIN QMAKE OUTPUT >>>>>>>>>>
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_SYSROOT:
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_PREFIX:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_ARCHDATA:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_DATA:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_DOCS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/doc
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_HEADERS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/include
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_LIBS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_LIBEXECS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/bin
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_BINS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_TESTS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/tests
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_PLUGINS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/plugins
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_IMPORTS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/imports
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_QML:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/qml
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_TRANSLATIONS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/translations
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_CONFIGURATION:
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_EXAMPLES:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_INSTALL_DEMOS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_HOST_PREFIX:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_HOST_DATA:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_HOST_BINS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_HOST_LIBS:C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QMAKE_SPEC:win32-g++
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QMAKE_XSPEC:win32-g++
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QMAKE_VERSION:3.1
+[2020-02-21 21:38] [ALPM-SCRIPTLET] QT_VERSION:5.14.1
+[2020-02-21 21:38] [ALPM-SCRIPTLET] <<<<<<<<<<  END QMAKE OUTPUT  <<<<<<<<<<
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Parsed qmake variables:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QMAKE_SPEC = "win32-g++"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QMAKE_VERSION = "3.1"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QMAKE_XSPEC = "win32-g++"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_BINS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_DATA = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_LIBS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_PREFIX = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_ARCHDATA = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_BINS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_CONFIGURATION = ""
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DATA = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DEMOS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DOCS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/doc"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_EXAMPLES = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_HEADERS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/include"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_IMPORTS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/imports"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_LIBEXECS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_LIBS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_PLUGINS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/plugins"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_PREFIX = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_QML = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/qml"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_TESTS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/tests"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_TRANSLATIONS = "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/translations"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_SYSROOT = ""
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_VERSION = "5.14.1"
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Parsed Qt subdirs:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_BINS = "bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_DATA = "share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_HOST_LIBS = "lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_ARCHDATA = "share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_BINS = "bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DATA = "share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DEMOS = "share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_DOCS = "share/qt5/doc"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_EXAMPLES = "share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_HEADERS = "include"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_IMPORTS = "share/qt5/imports"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_LIBEXECS = "share/qt5/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_LIBS = "lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_PLUGINS = "share/qt5/plugins"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_QML = "share/qt5/qml"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_TESTS = "share/qt5/tests"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   QT_INSTALL_TRANSLATIONS = "share/qt5/translations"
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Path to Qt directory: "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Path to new Qt directory: "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Skipping backup of files.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] The new and the old pathes to Qt directory are the same.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Perform forced patching.
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patch values for text files:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX/dir@@" -> "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX\\dir@@" -> "C:\\Users\\old_w\\Documents\\GitHub\\ProxSpace\\msys2\\mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "@@QT_REAL_PREFIX\dir@@" -> "C:\Users\old_w\Documents\GitHub\ProxSpace\msys2\mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32" -> "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "C:\Users\old_w\Documents\GitHub\ProxSpace\msys2\mingw32" -> "C:\Users\old_w\Documents\GitHub\ProxSpace\msys2\mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "C:\\Users\\old_w\\Documents\\GitHub\\ProxSpace\\msys2\\mingw32" -> "C:\\Users\\old_w\\Documents\\GitHub\\ProxSpace\\msys2\\mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patch values for binary files:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_adatpath=" -> "qt_adatpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_binspath=" -> "qt_binspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_datapath=" -> "qt_datapath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_demopath=" -> "qt_demopath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_docspath=" -> "qt_docspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/doc"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_epfxpath=" -> "qt_epfxpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_hbinpath=" -> "qt_hbinpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_hdatpath=" -> "qt_hdatpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_hdrspath=" -> "qt_hdrspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/include"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_hlibpath=" -> "qt_hlibpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_hpfxpath=" -> "qt_hpfxpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_impspath=" -> "qt_impspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/imports"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_lbexpath=" -> "qt_lbexpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/bin"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_libspath=" -> "qt_libspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_plugpath=" -> "qt_plugpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/plugins"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_prfxpath=" -> "qt_prfxpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_qml2path=" -> "qt_qml2path=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/qml"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_trnspath=" -> "qt_trnspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/translations"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_tstspath=" -> "qt_tstspath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/tests"
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   "qt_xmplpath=" -> "qt_xmplpath=C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/examples"
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] List of text files for patch:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DAnimation.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DCore.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DExtras.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DInput.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DLogic.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuick.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickAnimation.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickExtras.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickInput.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickRender.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickScene2D.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DRender.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AccessibilitySupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxBase.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxContainer.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxServer.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bluetooth.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bodymovin.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bootstrap.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Charts.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Concurrent.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Core.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DataVisualization.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DBus.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Designer.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DesignerComponents.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DeviceDiscoverySupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5EdidSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5EventDispatcherSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5FbSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5FontDatabaseSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Gamepad.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Gui.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Help.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Location.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Multimedia.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5MultimediaQuick.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5MultimediaWidgets.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Network.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5NetworkAuth.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Nfc.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5OpenGL.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5OpenGLExtensions.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PacketProtocol.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PlatformCompositorSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Positioning.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PositioningQuick.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PrintSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Purchasing.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Qml.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlDebug.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlDevTools.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlModels.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlWorkerScript.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3D.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DAssetImport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DRender.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DRuntimeRender.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DUtils.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickControls2.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickParticles.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickShapes.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickTemplates2.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickTest.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickWidgets.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5RemoteObjects.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Script.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5ScriptTools.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Scxml.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Sensors.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5SerialBus.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5SerialPort.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Sql.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Svg.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Test.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5TextToSpeech.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5ThemeSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5UiTools.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5VirtualKeyboard.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5VulkanSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebChannel.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebSockets.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebView.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Widgets.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WindowsUIAutomationSupport.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WinExtras.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Xml.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5XmlPatterns.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/qtmain.prl
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DAnimation.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DCore.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DExtras.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DInput.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DLogic.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuick.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickAnimation.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickExtras.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickInput.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickRender.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickScene2D.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DRender.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxBase.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxContainer.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxServer.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Bluetooth.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Charts.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Concurrent.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Core.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5DataVisualization.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5DBus.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Designer.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Gamepad.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Gui.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Help.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Location.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Multimedia.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5MultimediaWidgets.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Network.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5NetworkAuth.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Nfc.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5OpenGL.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5OpenGLExtensions.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Positioning.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5PositioningQuick.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5PrintSupport.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Purchasing.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Qml.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QmlModels.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QmlWorkerScript.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3D.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DAssetImport.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DRender.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DRuntimeRender.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DUtils.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickControls2.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickTemplates2.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickTest.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickWidgets.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5RemoteObjects.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Script.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5ScriptTools.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Scxml.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Sensors.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5SerialBus.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5SerialPort.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Sql.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Svg.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Test.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5TextToSpeech.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5UiTools.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5VirtualKeyboard.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebChannel.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebSockets.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebView.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Widgets.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WinExtras.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Xml.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5XmlPatterns.pc
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/dbuscommon.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcclient.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repccommon.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcmerged.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcserver.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3danimation.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3danimation_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dcore.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dcore_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dextras.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dextras_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dinput.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dinput_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dlogic.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dlogic_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquick.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickanimation.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickanimation_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickextras.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickextras_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickinput.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickinput_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickrender.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickrender_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquick_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3drender.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3drender_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_accessibility_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axbase.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axbase_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axcontainer.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axcontainer_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axserver.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axserver_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bluetooth.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bluetooth_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bodymovin_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bootstrap_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_charts.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_charts_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_concurrent.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_concurrent_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_core.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_core_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_datavisualization.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_datavisualization_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_dbus.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_dbus_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designer.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designercomponents_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designer_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_devicediscovery_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_edid_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_fb_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_fontdatabase_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gamepad.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gamepad_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gui.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gui_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_help.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_help_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_location.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_location_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimedia.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimediawidgets.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimediawidgets_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimedia_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_network.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_networkauth.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_networkauth_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_network_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_nfc.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_nfc_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_opengl.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_openglextensions.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_openglextensions_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_opengl_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_packetprotocol_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_platformcompositor_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioning.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioningquick.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioningquick_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioning_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_printsupport.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_printsupport_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_purchasing.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_purchasing_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qml.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmldebug_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmldevtools_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlmodels.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlmodels_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmltest.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmltest_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qml_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3d.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3drender.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3drender_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dutils.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dutils_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3d_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickcontrols2.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickcontrols2_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickparticles_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickshapes_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quicktemplates2.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quicktemplates2_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickwidgets.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickwidgets_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_remoteobjects.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_remoteobjects_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_repparser.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_repparser_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_script.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scripttools.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scripttools_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_script_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scxml.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scxml_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sensors.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sensors_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialbus.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialbus_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialport.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialport_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sql.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sql_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_svg.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_svg_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_testlib.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_testlib_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_texttospeech.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_texttospeech_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_theme_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uiplugin.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uitools.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uitools_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_vulkan_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webchannel.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webchannel_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_websockets.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_websockets_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webview.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webview_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_widgets.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_widgets_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_windowsuiautomation_support_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_winextras.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_winextras_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xml.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xmlpatterns.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xmlpatterns_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xml_private.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qconfig.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qdevice.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qmodule.pri
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] List of binary files for patch:
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qmake.exe
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/lrelease.exe
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qdoc.exe
+[2020-02-21 21:38] [ALPM-SCRIPTLET]   C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/Qt5Core.dll
+[2020-02-21 21:38] [ALPM-SCRIPTLET] 
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DAnimation.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DCore.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DExtras.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DInput.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DLogic.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuick.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickAnimation.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickExtras.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickInput.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickRender.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DQuickScene2D.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt53DRender.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AccessibilitySupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxBase.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxContainer.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5AxServer.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bluetooth.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bodymovin.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Bootstrap.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Charts.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Concurrent.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Core.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DataVisualization.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DBus.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Designer.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DesignerComponents.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5DeviceDiscoverySupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5EdidSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5EventDispatcherSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5FbSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5FontDatabaseSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Gamepad.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Gui.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Help.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Location.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Multimedia.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5MultimediaQuick.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5MultimediaWidgets.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Network.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5NetworkAuth.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Nfc.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5OpenGL.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5OpenGLExtensions.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PacketProtocol.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PlatformCompositorSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Positioning.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PositioningQuick.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5PrintSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Purchasing.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Qml.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlDebug.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlDevTools.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlModels.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QmlWorkerScript.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3D.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DAssetImport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DRender.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DRuntimeRender.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Quick3DUtils.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickControls2.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickParticles.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickShapes.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickTemplates2.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickTest.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5QuickWidgets.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5RemoteObjects.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Script.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5ScriptTools.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Scxml.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Sensors.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5SerialBus.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5SerialPort.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Sql.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Svg.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Test.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5TextToSpeech.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5ThemeSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5UiTools.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5VirtualKeyboard.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5VulkanSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebChannel.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebSockets.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WebView.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Widgets.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WindowsUIAutomationSupport.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5WinExtras.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5Xml.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/Qt5XmlPatterns.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/qtmain.prl".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DAnimation.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DCore.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DExtras.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DInput.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DLogic.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuick.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickAnimation.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickExtras.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickInput.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickRender.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DQuickScene2D.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt53DRender.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxBase.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxContainer.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5AxServer.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Bluetooth.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Charts.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Concurrent.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Core.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5DataVisualization.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5DBus.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Designer.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Gamepad.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Gui.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Help.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Location.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Multimedia.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5MultimediaWidgets.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Network.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5NetworkAuth.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Nfc.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5OpenGL.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5OpenGLExtensions.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Positioning.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5PositioningQuick.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5PrintSupport.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Purchasing.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Qml.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QmlModels.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QmlWorkerScript.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3D.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DAssetImport.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DRender.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DRuntimeRender.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Quick3DUtils.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickControls2.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickTemplates2.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickTest.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5QuickWidgets.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5RemoteObjects.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Script.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5ScriptTools.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Scxml.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Sensors.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5SerialBus.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5SerialPort.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Sql.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Svg.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Test.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5TextToSpeech.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5UiTools.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5VirtualKeyboard.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebChannel.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebSockets.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WebView.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Widgets.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5WinExtras.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5Xml.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/pkgconfig/Qt5XmlPatterns.pc".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/dbuscommon.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcclient.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repccommon.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcmerged.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/features/repcserver.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3danimation.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3danimation_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dcore.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dcore_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dextras.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dextras_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dinput.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dinput_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dlogic.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dlogic_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquick.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickanimation.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickanimation_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickextras.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickextras_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickinput.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickinput_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickrender.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickrender_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquickscene2d_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3dquick_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3drender.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_3drender_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_accessibility_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axbase.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axbase_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axcontainer.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axcontainer_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axserver.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_axserver_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bluetooth.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bluetooth_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bodymovin_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_bootstrap_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_charts.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_charts_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_concurrent.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_concurrent_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_core.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_core_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_datavisualization.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_datavisualization_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_dbus.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_dbus_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designer.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designercomponents_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_designer_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_devicediscovery_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_edid_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_eventdispatcher_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_fb_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_fontdatabase_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gamepad.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gamepad_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gui.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_gui_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_help.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_help_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_location.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_location_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimedia.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimediawidgets.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimediawidgets_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_multimedia_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_network.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_networkauth.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_networkauth_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_network_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_nfc.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_nfc_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_opengl.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_openglextensions.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_openglextensions_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_opengl_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_packetprotocol_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_platformcompositor_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioning.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioningquick.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioningquick_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_positioning_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_printsupport.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_printsupport_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_purchasing.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_purchasing_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qml.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmldebug_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmldevtools_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlmodels.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlmodels_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmltest.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmltest_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qmlworkerscript_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qml_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_qtmultimediaquicktools_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3d.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dassetimport_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3drender.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3drender_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3druntimerender_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dutils.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3dutils_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick3d_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickcontrols2.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickcontrols2_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickparticles_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickshapes_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quicktemplates2.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quicktemplates2_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickwidgets.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quickwidgets_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_quick_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_remoteobjects.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_remoteobjects_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_repparser.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_repparser_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_script.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scripttools.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scripttools_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_script_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scxml.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_scxml_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sensors.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sensors_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialbus.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialbus_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialport.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_serialport_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sql.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_sql_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_svg.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_svg_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_testlib.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_testlib_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_texttospeech.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_texttospeech_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_theme_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uiplugin.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uitools.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_uitools_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_virtualkeyboard_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_vulkan_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webchannel.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webchannel_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_websockets.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_websockets_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webview.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_webview_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_widgets.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_widgets_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_windowsuiautomation_support_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_winextras.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_winextras_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xml.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xmlpatterns.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xmlpatterns_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/modules/qt_lib_xml_private.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qconfig.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qdevice.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/share/qt5/mkspecs/qmodule.pri".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching text file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching binary file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qmake.exe".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching binary file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/lrelease.exe".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching binary file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/qdoc.exe".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] Patching binary file "C:/Users/old_w/Documents/GitHub/ProxSpace/msys2/mingw32/bin/Qt5Core.dll".
+[2020-02-21 21:38] [ALPM-SCRIPTLET] /
+[2020-02-21 21:38] [ALPM] transaction completed
+[2020-02-21 21:38] [PACMAN] Running 'pacman --noconfirm --overwrite=* -Scc'

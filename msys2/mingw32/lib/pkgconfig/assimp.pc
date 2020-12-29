@@ -1,0 +1,11 @@
+prefix=/mingw32
+exec_prefix=/mingw32/
+libdir=/mingw32/lib
+includedir=/mingw32/../include/include
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.0.0
+Libs: -L${libdir} -lassimp
+Libs.private:  -lz
+Cflags: -I${includedir}
